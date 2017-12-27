@@ -1,8 +1,8 @@
-# Text-similarity-with-Siamese-Neural-Network
+# Text-similarity-with-SNLI
 
-## Siamese Network Architecture
+## Stanford Natural Language Inference Model
 
-![Siamese NN](https://github.com/ab-bh/Text-similarity-with-Siamese-Neural-Network/blob/master/siamese.png)<br>
+![SNLI](https://github.com/ab-bh/Text-similarity-with-Siamese-Neural-Network/blob/master/snli.png)<br>
 
 
 ## Dataset
